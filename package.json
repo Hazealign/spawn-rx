@@ -1,7 +1,7 @@
 {
-  "name": "spawn-rx",
-  "version": "2.0.12",
-  "description": "An Rx-version of child_process.spawn",
+  "name": "spawn-rx-dev",
+  "version": "2.1.0",
+  "description": "An Rx-version of child_process.spawn [WIP, Use Original One.]",
   "scripts": {
     "doc": "echo \"esdoc may not work correctly\" && esdoc -c ./esdoc.json",
     "compile": "tsc",
@@ -12,20 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulcbetts/spawn-rx"
+    "url": "https://github.com/hazealign/spawn-rx"
   },
   "keywords": [
     "spawn",
     "rx"
   ],
-  "author": "Paul Betts <paul@paulbetts.org>",
+  "author": "Haze Lee <hazelee@realignist.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/paulcbetts/spawn-rx/issues"
+    "url": "https://github.com/hazealign/spawn-rx/issues"
   },
   "main": "lib/src/index.js",
   "typings": "lib/src/index.d.ts",
-  "homepage": "https://github.com/paulcbetts/spawn-rx",
+  "homepage": "https://github.com/hazealign/spawn-rx",
   "dependencies": {
     "debug": "^2.5.1",
     "lodash.assign": "^4.2.0",

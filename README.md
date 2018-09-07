@@ -1,5 +1,8 @@
 # spawn-rx: A better version of spawn
 
+## CAUTION:
+CONSIDER TO USE [ORIGINAL REPOSITORY](https://github.com/paulcbetts/spawn-rx) INSTEAD THIS. THIS REPOSITORY WILL BE REMOVED WHEN PULL REQUEST GOT MERGED.
+
 | Linux/OSX | Windows |
 | --- | --- |
 | [![Build Status](https://travis-ci.org/tools-rx/spawn-rx.svg?branch=master)](https://travis-ci.org/tools-rx/spawn-rx) | [![Build status](https://ci.appveyor.com/api/projects/status/xm9xpgma4jwy3xns?svg=true)](https://ci.appveyor.com/project/dfbaskin/spawn-rx) |
